@@ -62,4 +62,4 @@ CRHS IDEA's repository of big brain information.
   * Linear Algebra I
   * Python II
 * AR/VR
-  *...
+  * In progress
