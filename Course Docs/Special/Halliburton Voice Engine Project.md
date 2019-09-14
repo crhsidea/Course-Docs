@@ -15,5 +15,5 @@ Alexa Apps
   * Create a video or clear demonstration that shows your proficiency with PowerBI
   * Create another demo with your Alexa Skill
   * These two projects will be judged on the specified date
-    * the __3-4 BEST SUBMISSIONS__ WILL BE CHOSEN TO WORK ON THE HALLIBURTON PROJECT. 
+    * The __3-4 BEST SUBMISSIONS__ WILL BE CHOSEN TO WORK ON THE HALLIBURTON PROJECT. 
     * Don’t worry if you don’t get on this one, we hope to have numerous corporate projects in the future for you to be able to work on.
