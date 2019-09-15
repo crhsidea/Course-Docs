@@ -8,7 +8,7 @@ None
 * Download either Eclipse or IntelliJ IDEA and get set up
   * How to use Eclipse - https://www.youtube.com/watch?v=VoHYAne9Pa4
   * __DO NOT CREATE A MODULE__. When Eclipse prompts you with creating a new module, click Don't Create.
-* Realize this course will be quite long, as having a solid foundation in Java is essential.
+* Realize this course will be quite long, as having a solid foundation in Java is essential in Android app development.
 ### Assessment
 * Copy and paste the following code into a new class in an IDE
 ## Level 1
