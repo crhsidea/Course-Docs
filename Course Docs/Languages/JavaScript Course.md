@@ -24,4 +24,4 @@ This is the most important skill a person can have in modern web development.
 * Complete this course - https://www.codecademy.com/learn/asynchronous-javascript
 
 ### Assessment
-* Complete 5 more problems of your choice on leetcode with JS.
+* Complete 5 more problems of your choice on leetcode with JavaScript.
