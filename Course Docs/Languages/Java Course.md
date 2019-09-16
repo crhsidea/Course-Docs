@@ -19,7 +19,7 @@ None
   *    Output: 762939453125
 ## Level 2
 * Complete through [Level 7](https://www.codecademy.com/learn/learn-java)
-* Create an account with [USACO](https://train.usaco.org/usacogate)
+* Create an account with [USACO Training](https://train.usaco.org/usacogate)
   * Read through Section 1.1
   * Read through Section 1.2 Submitting Solutions
 * Read through [BufferedReader](https://www.edureka.co/blog/bufferedreader-in-java/)
