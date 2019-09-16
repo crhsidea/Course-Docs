@@ -8,7 +8,7 @@ Alexa Apps
 
 ## Level 1
 1. Finish off the Alexa Course
-2. Download PowerBI here - https://powerbi.microsoft.com/en-us/
+2. Download PowerBI [here](https://powerbi.microsoft.com/en-us/)
 3. Complete all sections in this guided learning course EXCEPT : PowerBI and Excel, and Intro to DAX, which are not necessary.
 ### Assessment
 * Make a basic, PowerBI Sample Dashboard using the skills you’ve learned. 
