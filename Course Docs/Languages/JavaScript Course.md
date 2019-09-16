@@ -10,7 +10,7 @@ This is the most important skill a person can have in modern web development.
 ## Level 0
 * Begin this [course](https://www.codecademy.com/learn/learn-javascript) and complete up to Chapter 4 : Arrays and Loops.
 ### Assessment 
-* Make a [leetcode](https://leetcode.com) account and go ahead and complete problem number 1. 
+* Make a [LeetCode](https://leetcode.com) account and go ahead and complete problem number 1. 
   * Once you have done this be able to login, show, and explain your solution.
 
 ## Level 1
