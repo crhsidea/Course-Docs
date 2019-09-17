@@ -9,7 +9,7 @@ This is the beginning of the web development path.
 None
 
 ## Level 2
-* Complete this course: https://www.codecademy.com/learn/learn-html
+* Complete this [HTML course](https://www.codecademy.com/learn/learn-html)
 
 ### Assessment
 * Build a form-based page that takes in a form as an input and builds the page to show the parameters passed into the form.
